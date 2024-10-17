@@ -1,5 +1,5 @@
 **Public Repository**
-# LOG
+# Project
 
 A brief description of the project, its features, and why it uses both C++ and Java.
 
@@ -10,6 +10,7 @@ A brief description of the project, its features, and why it uses both C++ and J
 - [Development](#development)
 - [Testing](#testing)
 - [Releasing](#releasing)
+- [ChangeLog](#changelog)
 - [Contributing](#contributing)
 - [License](#license)
 
