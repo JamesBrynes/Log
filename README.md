@@ -10,9 +10,9 @@ A brief description of the project, its features, and why it uses both C++ and J
 - [Development](#development)
 - [Testing](#testing)
 - [Releasing](#releasing)
-- [Change Log](#changelog)
+- [Change Log](CHANGELOG.md)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](LICENSE.md)
 
 ---
 
